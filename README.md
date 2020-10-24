@@ -1,2 +1,2 @@
 # RULES-AND-REGULATIONS
-Link to unofficial markdown of rules [here](RULES AND REGULATIONS OF BLOCK42 OWNERS ASSOCIATION, INC.md)
+Link to unofficial markdown of rules [here](/RULES AND REGULATIONS OF BLOCK42 OWNERS ASSOCIATION, INC.md)
