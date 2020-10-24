@@ -1,4 +1,4 @@
-# **RULES AND REGULATIONS OF BLOCK 42 OWNERS ASSOCIATION, INC.**
+# **RULES AND REGULATIONS OF BLOCK 42 OWNERS ASSOCIATION, INC.** (unofficial)
 
 The primary purpose of these Rules and Regulations (“Rules”) is to protect all Owners, and their respective tenants, visitors and guests, from annoyance and nuisance caused by improper use of the Units and Common Elements of the unit ownership, estate established by the Declaration of Unit Ownership Estate of Block 42, dated December, 2007, and recorded in Book 10690, beginning at page 11655 of the records of Oklahoma County, Oklahoma (the “Declaration”). The Declaration covers the certain real property located in Oklahoma County, Oklahoma, which is described on Exhibit “A” attached to these Rules and made a part hereof.
 
