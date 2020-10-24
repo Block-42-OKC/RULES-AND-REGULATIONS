@@ -1,4 +1,4 @@
-RULES AND REGULATIONS OF BLOCK 42 OWNERS ASSOCIATION, INC.
+# **RULES AND REGULATIONS OF BLOCK 42 OWNERS ASSOCIATION, INC.**
 
 The primary purpose of these Rules and Regulations (“Rules”) is to protect all Owners, and their respective tenants, visitors and guests, from annoyance and nuisance caused by improper use of the Units and Common Elements of the unit ownership, estate established by the Declaration of Unit Ownership Estate of Block 42, dated December, 2007, and recorded in Book 10690, beginning at page 11655 of the records of Oklahoma County, Oklahoma (the “Declaration”). The Declaration covers the certain real property located in Oklahoma County, Oklahoma, which is described on Exhibit “A” attached to these Rules and made a part hereof.
 
@@ -8,14 +8,14 @@ Owners are encouraged to read and review the Declaration and the Articles of Inc
 
 The terms used herein with initial capital letters shall have the meanings given to them in the Declaration, except as expressly otherwise provided herein. The use of any gender herein shall be deemed to include either or both genders, and the use of the singular shall be deemed to include the plural whenever the context so requires.
 
-ARTICLE 1 OCCUPANCY
+# ARTICLE 1 OCCUPANCY
 
-1.1	Use of Units.  
+## 1.1	Use of Units.  
 All Units shall be occupied and used by the respective Owners thereof, their tenants, visitors and guests, only for those purposes that are consistent with, and appropriate to, a first-class single-family residential occupancy, subject, however, to the Declaration, Bylaws and these Rules. The Units and the Common Elements may not be used for any other purpose without the prior written consent of the Board of Directors.
 
-1.2 Pets and Other Animals. 
+## 1.2 Pets and Other Animals. 
 Each Owner may have a single pet having a weight of not greater than thirty (30) pounds and otherwise in compliance with all ordinances of the City of Oklahoma City. Each pet must be registered with the Board, which shall have the right to cause the Owner to remove his pet from the Property if the Board determines, in its sole judgment, that the pet is a nuisance to the Property or to any of the other Owners. Each pet shall have a “zero impact” to the common areas of the Property. Notwithstanding this provision, visually impaired persons, hearing impaired persons and physically impaired persons shall be allowed to keep certified seeing-eye dogs, certified signal dogs, and certified service dogs, respectively, in their Unit. Further, nothing herein or in the Bylaws shall hinder full access to the Units and the Common Elements by persons with disabilities.
-1.3 Rights of All Owners. 
+## 1.3 Rights of All Owners. 
 All persons who own an interest in a Unit, and those who are tenants, visitors or guests of such Owners, shall have the equal right to use, occupy and enjoy their respective Unit, and to utilize the Common Elements that are not also designated Limited Common Elements.
 1.4 Water Facilities.
 Toilets, sinks and other water apparatus in each Unit and other parts of the Property shall not be used for any purpose other than those for which they are designed, nor shall any sweepings, rubbish, rags or other articles be thrown into them. Any damage anywhere resulting from misuse of any toilets, sinks or other water apparatus in a Unit or other parts of the Property shall be repaired and paid for by the Unit Owner.
