@@ -40,6 +40,19 @@ Use by Owner’s Tenants, Visitors and Guests. Subject to the terms of these Rul
 Conduct of Owner’s Tenants, Visitors and Guests. 
 An Owner shall be responsible for the conduct of such Owner’s employees, contractors, agents, customers, lessees, tenants, visitors and guests, as appropriate, and shall, upon the request of the Board, immediately abate and remove, at said Owner’s expense, any structure, thing or condition that may exist with regard to the occupancy of said Owner’s Unit by such Owner’s employees, contractors, agents, customers, lessees, tenants, visitors or guests contrary to the intent and meaning of the provisions of these Rules, the Bylaws and the Declaration. If the Owner is unable to control the conduct of said employees, contractors, agents, customers, lessees, tenants, visitors or guests to conform with the intent and meaning of the provisions of these Rules, the Bylaws and the Declaration, said Owner shall, upon request of the Board immediately remove such employees, contractors, agents, customers, lessees, tenants, visitors or guests from the Property premises, without compensation for lost rentals or income, or any other damage resulting therefrom.
 
+## 2.3 Terms of Leases and Thirty-Day Minimum Term. 
+An Owner may lease their Unit; however,
+no lease of any space in any Unit shall be made for transient purposes for less than thirty (30)
+days. Any such lease shall be in writing, shall state that it is subject in all respects to the Rules,
+the Bylaws, and the Declaration, and shall provide that any failure by a tenant thereunder to
+comply with the intent and meaning of these Rules, the Bylaws, and the Declaration, shall be
+and constitute a default under such lease. Owner shall make available to the Association copies
+of any lease and related documents within 15 days of occupancy in accordance with section 2.4.
+
+## 2.4 Registration of Rentals. 
+Within 15 days of any new lease term and/or tenant, an Owner is
+required to register the tenant with the HOA and pay a registration fee of fifty dollars ($50.00).
+
 # ARTICLE 3 COMMON AREAS, ENTRANCES, BALCONIES AND ROOFTOPS
 
 ## 3.1
